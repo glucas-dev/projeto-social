@@ -31,7 +31,6 @@ section#telefone {
     transform: translate(-50%, -50%);
     height: 590px;
     width: 280px;
-    background-color: black;
     background-image: url(../imagens/frame-iphone.png);
     background-repeat: no-repeat;
     background-size: contain;
